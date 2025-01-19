@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82044c8 (add)
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 =======
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
@@ -11,6 +15,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 >>>>>>> 97333d3 (Initial commit)
+=======
+>>>>>>> 82044c8 (add)
 const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
@@ -41,6 +47,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "main.dart.js": "e9782e0eab8e92aa035bbe2018d8fd86",
 "manifest.json": "5f90cb8026b848dc5c25dd391268ba94",
 <<<<<<< HEAD
+<<<<<<< HEAD
 "version.json": "3f69b55d34fb46c0310fc284bb8de349"};
 // The application shell files that are downloaded before a service worker can
 // start.
@@ -49,11 +56,19 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 // The application shell files that are downloaded before a service worker can
 // start.
 >>>>>>> 97333d3 (Initial commit)
+=======
+"version.json": "3f69b55d34fb46c0310fc284bb8de349"};
+// The application shell files that are downloaded before a service worker can
+// start.
+>>>>>>> 82044c8 (add)
 const CORE = ["main.dart.js",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82044c8 (add)
 "assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
@@ -218,6 +233,7 @@ function onlineFirst(event) {
     })
   );
 }
+<<<<<<< HEAD
 =======
 "assets/FontManifest.json"];
 
@@ -384,3 +400,5 @@ function onlineFirst(event) {
   );
 }
 >>>>>>> 97333d3 (Initial commit)
+=======
+>>>>>>> 82044c8 (add)

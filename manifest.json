@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 82044c8 (add)
 {
     "name": "bmi_calculator",
     "short_name": "bmi_calculator",
@@ -34,6 +37,7 @@
         }
     ]
 }
+<<<<<<< HEAD
 =======
 {
     "name": "bmi_calculator",
@@ -71,3 +75,5 @@
     ]
 }
 >>>>>>> 97333d3 (Initial commit)
+=======
+>>>>>>> 82044c8 (add)
